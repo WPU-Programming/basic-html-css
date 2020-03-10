@@ -1,0 +1,18 @@
+.coba {
+   margin-top: 50px;
+   margin-left: 200px;
+   color: aqua;
+}
+
+#test {
+   text-align: end;
+   font-family: Arial;
+   font-size: 24px;
+}
+
+.kotak {
+   border: 1px solid black;
+   margin-left: 50px;
+   padding-left: 50px;
+}
+
